@@ -1,0 +1,57 @@
+{
+  "list": [
+    {
+      "id": "13099eg01",
+      "createDate": "2016-05-19 14:15:11",
+      "modifyDate": "2016-07-20 14:55:49",
+      "flag": true,
+      "orders": "4",
+      "name": "班次模板管理",
+      "parentId": "12029684246118400",
+      "remark": "区域管理",
+      "url": "/admin/area/tree.jhtml",
+      "type": "1",
+      "large": "",
+      "medium": "images/menuLf/shiftTempManage.png",
+      "mediumBg": "images/menuLf/shiftTempManage.png",
+      "thumbnail": "",
+      "isParent": true,
+      "parentName": "",
+      "children": [
+        {
+          "id": "37544461452",
+          "url": "/query/reportManage/reportClass",
+          "name": "班结报表"
+        },
+        {
+          "id": "3754414452",
+          "url": "/query/reportManage/phyCardRecharge",
+          "name": "实体卡充值记录"
+        },
+        {
+          "id": "3754414TF52",
+          "url": "/query/reportManage/phyCardConsume",
+          "name": "实体卡消费记录"
+        }
+      ]
+    },
+    {
+      "id": "12030099176030208",
+      "createDate": "2016-05-16 15:27:42",
+      "modifyDate": "2016-07-21 18:31:47",
+      "flag": true,
+      "orders": "2",
+      "name": "订单查询",
+      "parentId": "12029684246118400",
+      "remark": "角色管理",
+      "url": "/query/order/orderQuery",
+      "type": "1",
+      "large": "",
+      "medium": "images/menuLf/orderQuery.png",
+      "mediumBg": "images/menuLf/orderQuery.png",
+      "thumbnail": "",
+      "isParent": true,
+      "parentName": ""
+    }
+  ]
+}
